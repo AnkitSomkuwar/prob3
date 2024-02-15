@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.place-card {
+  margin: 10px;
+}
+.place-img {
+  width: 250px;
+}
+.text {
+  font-family: Roboto;
+  color: #000000;
+}
